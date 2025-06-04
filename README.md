@@ -12,5 +12,10 @@
 * Vina Myrnauli Abigail Siallagan (2206825776)
 <br>
 
+### Berkas Presentasi:
+https://drive.google.com/file/d/1xd73T9_faQKDQ4_z__7yKxiMFpTj5MzS/view?usp=sharing
+<br>
+<br>
+
 ### *Dataset*:
 https://drive.google.com/drive/folders/1yXVJ8wV8FTF_pqQBUwML18S9gCuvM_GS?usp=sharing
