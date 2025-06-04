@@ -5,7 +5,7 @@
 <h4 align="center">Universitas Indonesia</h4>
 <br>
 
-### Disusun oleh:
+### Disusun oleh `kafka`, yang terdiri dari:
 * Muhammad Daffa’I Rafi Prasetyo (2206029191)
 * Shirin Zarqaa Rabbaanii Arham (2206081963)
 * Ramadhan Andika Putra (2206081976)
